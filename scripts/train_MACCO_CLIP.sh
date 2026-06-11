@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python ./src/training/main_train_macco_clip.py
