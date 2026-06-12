@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Paper-ACL%202026-blue.svg"></a>
+  <a href="https://arxiv.org/abs/2606.13288"><img src="https://img.shields.io/badge/arXiv-Paper-b31b1b.svg"></a>
   <a href="https://huggingface.co/hiker-lw/MACCO"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Checkpoint-orange.svg"></a>
   <a href="https://huggingface.co/datasets/hiker-lw/VL-Compositionality-Benchmarks"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-Benchmark-yellow.svg"></a>
 </p>
@@ -186,11 +186,14 @@ All pretrained checkpoints provided in this repository are trained on COCO.
 If you find our work useful for your research, please consider citing:
 
 ```bibtex
-@inproceedings{li2026macco,
-  title={Cross-Modal Masked Compositional Concept Modeling for Enhancing Visio-Linguistic Compositionality},
-  author={Li, Wei and Huang, Zhen and Tian, Xinmei},
-  booktitle={Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics},
-  year={2026}
+@misc{li2026crossmodalmaskedcompositionalconcept,
+      title={Cross-Modal Masked Compositional Concept Modeling for Enhancing Visio-Linguistic Compositionality}, 
+      author={Wei Li and Zhen Huang and Xinmei Tian},
+      year={2026},
+      eprint={2606.13288},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2606.13288}, 
 }
 ```
 
